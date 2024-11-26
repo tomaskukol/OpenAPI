@@ -1,2 +1,1 @@
-SystemOrganization addCategory: #'OpenAPI-Client'!
-SystemOrganization addCategory: #'OpenAPI-Client-Manifest'!
+self packageOrganizer ensurePackage: #'OpenAPI-Client' withTags: #(#Manifest)!
