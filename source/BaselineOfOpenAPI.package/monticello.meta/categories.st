@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfOpenAPI!
+self packageOrganizer ensurePackage: #BaselineOfOpenAPI withTags: #()!

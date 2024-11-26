@@ -3,4 +3,4 @@ zinHTTPComponents: spec
 	spec baseline: 'ZincHTTPComponents' with: [ 
 		spec 
 			loads: #('REST');
-			repository: 'github://svenvc/zinc/repository']
+			repository: 'github://svenvc/zinc:master/repository']
